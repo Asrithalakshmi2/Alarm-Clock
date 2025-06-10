@@ -22,7 +22,9 @@ You can install `pygame` using pip:
 
 ```bash
 pip install pygame
-How to Run
+
+
+## How to Run
 Clone the repository (or download the alarm_clock.py file):
 
 Bash
